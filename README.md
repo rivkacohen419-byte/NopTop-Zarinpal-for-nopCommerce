@@ -1,9 +1,8 @@
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d5e02cd1-c014-4d95-b1b4-7053aa39cba2" />
+
 # NopTop Zarinpal Plugin For nopCommerce
 Zarinpal payment plugin for nopCommerce
-
 افزونه پرداخت زرین پال برای سیستم فروشگاه ساز ناپ کامرس
-
-![Zarinpal](https://www.zarinpal.com/lab/wp-content/uploads/sites/2/2016/05/icon-128x128.png)
 
 ## قابلیت های کلیدی ##
 - امکان استفاده از SandBox 
